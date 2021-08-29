@@ -3,6 +3,10 @@
 ### Using CNN
 CNN is an acronym for **Convolutional neural network** 
 CNN is type of a artificial neural network used in image recognition and processing
+<br>
+Output: <br>
+
+![Alt Text](./numrender.gif)
 ## Requirements
 * For .ibpy file 
    1. Jupyter notebook or Google colab 
