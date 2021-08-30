@@ -1,8 +1,10 @@
 # Number_recognition
 ### Number recognition using Tensorflow on MNIST dataset 
-### Using CNN
-CNN is an acronym for **Convolutional neural network** 
-CNN is type of a artificial neural network used in image recognition and processing
+### Using DNN
+DNN is an acronym for **Deep neural network** 
+DNN is type of a artificial neural network part of deep learning <br>
+(deep learning is branch of machine learning)
+
 ## Requirements
 * For .ibpy file 
    1. Jupyter notebook or Google colab 
