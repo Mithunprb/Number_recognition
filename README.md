@@ -27,18 +27,10 @@ Output: <br>
        * Install TensorFlow
           ```bash
           pip install tensorflow
-          
-          # In Jupyter notebook
-          
-          !pip install tensorflow
           ```
        * Install matplotlib
           ```bash
           pip install matplotlib
-          
-          # In Jupyter notebook
-          
-          !pip install matplotlib
           ```
 
 
